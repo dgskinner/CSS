@@ -1,0 +1,50 @@
+div {
+	display: block;
+	border: 1px solid silver;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+section {
+	border: 7px solid silver;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: -7px;
+}
+
+img {
+	display: inline;
+	height: 50px;
+	width: 50px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 2px solid blue;
+}
+
+h3 {
+	display: inline;
+	padding-bottom: 0px;
+	height: 0px;
+	color: blue;
+	padding-left: 15px;
+}
+
+h4 {
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	color: silver;
+	padding-left: 15px;
+}
+
+div div {
+	display: inline-block;
+	border: 0px;
+	vertical-align: middle;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+body {
+	padding-top: 50px;
+}

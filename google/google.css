@@ -1,0 +1,56 @@
+header div {
+	display: inline-block;
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+header button {
+	display: inline-block;
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	background: cornflowerblue;
+	color: white;
+}
+
+#main-picture img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+#search-input label input {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 550px;
+	height: 30px;
+
+}
+
+#job-link {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
+section div {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+section div button {
+	height: 30px;
+	background-color: ghostwhite;
+	color: black;
+	margin: 5px;
+	border-radius: 5px;
+	border: 1px;
+}

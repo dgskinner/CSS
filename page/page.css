@@ -1,0 +1,97 @@
+header div div{
+	display: inline-block;	
+	color: white;
+	vertical-align: middle;	
+	font-size: 22px;
+	padding: 11px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	border-right: 2px solid black;
+	margin-left: -6px;
+}
+
+header div {
+	display: inline-block;
+}
+
+header {
+	background: red;
+	height: 50px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+#leftheader {
+	float: left;
+}
+
+#rightheader {
+	float: right;
+}
+
+#buffer {
+	color: red;
+	padding-left: 60px;
+	
+}
+
+body {
+	margin: 0px;
+}
+
+section {
+	display: inline-block;
+	margin: 80px;
+	margin-top: 0px;
+	border: 3px solid silver;
+	margin-right: 87;
+}
+
+.torso {
+	display: inline-block;
+}
+
+#sidebar {
+	width: 31%;
+	border-right: 3px solid silver;
+	padding-left: 15px;
+	padding-right: 10px;
+}
+
+#content {
+	width: 61%;
+	vertical-align: top;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.foot {
+	background: silver;
+	height: 50px;
+	vertical-align: middle;
+}
+
+#leftfoot {
+	display: inline-block;
+	float: left;
+	padding: 16px;
+}
+
+#rightfoot{
+	display: inline-block;
+	float: right;
+	padding: 16px;
+}
+
+#rightfoot div {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+#aa {
+	border-right: 0px;
+}
+
+#home {
+	border-left: 2px solid black;
+}
